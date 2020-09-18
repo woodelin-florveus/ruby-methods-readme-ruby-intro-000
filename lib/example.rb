@@ -13,6 +13,7 @@ puts phrase
 puts phrase
 
 statement = "hello universe"
+
 def hello_universe
   puts statement
   puts statement
